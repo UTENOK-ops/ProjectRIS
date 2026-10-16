@@ -1,0 +1,17 @@
+body { font-family: Arial, sans-serif; background: #f5f6f8; color: #222; margin: 0; }
+.center { max-width: 720px; margin: 40px auto; padding: 24px 32px; background: #fff;
+          border-radius: 8px; box-shadow: 0 1px 4px rgba(0, 0, 0, .15); text-align: center; }
+h2 { margin-top: 0; }
+.menu a { display: block; margin: 10px auto; max-width: 420px; padding: 10px;
+          border: 1px solid #3a6ea5; border-radius: 6px; color: #3a6ea5; text-decoration: none; }
+.menu a:hover { background: #3a6ea5; color: #fff; }
+form p { margin: 12px 0; }
+label { display: inline-block; min-width: 200px; text-align: right; margin-right: 8px; }
+input { padding: 6px; width: 200px; }
+button { padding: 8px 24px; cursor: pointer; }
+table { border-collapse: collapse; margin: 16px auto; }
+td, th { border: 1px solid #999; padding: 6px 12px; }
+th { background: #e3eaf3; }
+.error { color: #b00020; font-weight: bold; }
+.nav { margin-top: 20px; }
+.nav a { margin: 0 10px; }
